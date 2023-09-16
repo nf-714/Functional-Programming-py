@@ -1,4 +1,7 @@
 # Functional Programming
+Functional programming is a programming paradigm or style of writing code that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data. In functional programming, the primary focus is on expressing the desired computation rather than describing a sequence of steps to achieve it.
+
+
 ## Map, Filter, Reduce, Zip and Lambda Function
 * Map - Map function helps to create a new and modified array without affecting real array
   ```python
